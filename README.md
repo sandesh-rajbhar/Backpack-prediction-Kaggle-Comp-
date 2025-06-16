@@ -57,3 +57,43 @@ Participants were given training and test data derived from a **deep learning mo
 
 ## 📦 Project Structure
 
+📁 backpack-price-prediction/
+├── Backpack_Prediction_Challenge.ipynb # Complete notebook
+├── submission.csv # Final predictions
+├── requirements.txt # Python dependencies
+├── .gitignore # Ignored files
+└── README.md # Project overview (this file)
+
+
+---
+
+## 📊 Final Results
+
+| Metric        | Score     |
+|---------------|-----------|
+| RMSE (Public) | 38.89951  |
+| Rank          | 983 / 3393|
+
+---
+
+## 🧾 Key Takeaways
+
+- **CatBoost** dramatically simplifies modeling when working with categorical-heavy data
+- Even with no external data or feature engineering, strong models can emerge with good validation practices
+- Staying within the competition's rules (no dataset alteration) teaches valuable constraints-based modeling
+
+---
+
+## 🙋‍♂️ About the Author
+
+**Sandesh Rajbhar**  
+Data Science Enthusiast | Kaggle Competitor | Lifelong Learner  
+📬 *Always open to feedback, collaborations, and new challenges!*
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, fork, or build upon this work — just drop a star ⭐ if you find it useful!
+
